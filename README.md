@@ -1,2 +1,21 @@
-# Bank-Transaction-Analysis-Report
-I created this Power BI project to analyze transaction data and understand how different transactions contribute to the overall amount, taxes, and fees. I also explored customer details such as age, and customer names to find useful patterns in the data. The dashboard makes it easier to  get a quick understanding of the transactions.  
+# Transaction Analysis Report
+
+This is a Power BI project where I analyzed transaction data to understand different aspects of the transactions.
+
+The report includes things like:
+- Total transaction amount
+- Total tax
+- Total fees
+- Customer details
+- Gender analysis
+- Transaction trends and patterns
+
+I used Power BI to clean, analyze, and visualize the data and created a dashboard to make the information easier to understand.
+
+## Tools Used
+- Power BI
+- Power Query
+- DAX
+
+## Project
+The main goal of this project was to explore the transaction data and find useful insights from it.
